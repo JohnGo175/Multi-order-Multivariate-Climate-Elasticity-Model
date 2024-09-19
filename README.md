@@ -1,2 +1,2 @@
 # Multi-order-Multivariate-Climate-Elasticity-Model
-# Only academic used
+# For academic use only
